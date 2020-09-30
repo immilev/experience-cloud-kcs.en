@@ -1,7 +1,6 @@
 ---
-cloud: document-cloud
+cloud: experience-cloud, document-cloud
 solution-title: Troubleshooting
-mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.en
 type: troubleshooting
 index: yes
