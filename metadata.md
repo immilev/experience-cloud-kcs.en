@@ -1,6 +1,7 @@
 ---
 cloud: experience-cloud
-type: Tech Note
+type: kcs
+
 ---
 
 # Metadata for internal use
