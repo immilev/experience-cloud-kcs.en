@@ -2,9 +2,8 @@
 cloud: experience-cloud, document-cloud
 solution-title: Troubleshooting
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.en
-type: troubleshooting
+type: Troubleshooting
 index: yes
-
 ---
 
 # Metadata for internal use
