@@ -1,0 +1,34 @@
+---
+
+title: test
+description: Description
+solution: Target
+product: Target
+applies-to: "Target"
+keywords: KCS
+resolution: Resolution
+internal-notes:
+bug: False
+article-created-by: Mohini lakshmi priya Mothukuri
+article-created-date: "10/27/2020 2:14:19 PM"
+article-published-by: Mohini lakshmi priya Mothukuri
+article-published-date: "10/27/2020 2:15:46 PM"
+version-number: 1
+article-number: KA-18715
+dynamics-url: "https://adobe-edev.crm.dynamics.com/main.aspx?forceUCI=1&pagetype=entityrecord&etn=knowledgearticle&id=590904ae-5e18-eb11-a813-000d3a102a06"
+
+---
+
+# test
+
+## Description
+
+test
+
+## Resolution
+
+1. Customer Care copies report suites (links) to the new company. Customer/CSM would need to open a support ticket specifying the source and target login companies and the list of report suites need to be migrated. Note that migration cannot happen between companies existing in different Data Centers.
+
+2. Provisioning team maps the billing IDs of the report suites to the new company. CSM need to raise the request to Provisioning team sharing the details of report suites and billing IDs.
+
+
