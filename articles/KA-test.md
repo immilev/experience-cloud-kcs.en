@@ -2,8 +2,8 @@
 
 title: "Testing - EXL"  
 description: Description  
-solution: Bad Solution  
-product: Bad Solution
+solution: Target 
+product: Target
 applies-to: "Acrobat DC"  
 keywords: "KCS Testing - EXL"  
 resolution: Resolution  
@@ -19,7 +19,7 @@ dynamics-url:
 
 ---
 
-# Testing - validation failures
+# Remove Test Article
 
 This should fail.
 
