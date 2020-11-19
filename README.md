@@ -2,7 +2,7 @@
 
 | EXL-PR Validation | EXL Validation | URL Pattern | Help |
 |--- |--- |--- |--- |
-| [![Build Status](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl-pr/badge/icon)](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl-pr/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl/badge/icon)](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl/lastBuild) |  `https://experienceleague.corp.adobe.com/docs/experience-cloud-kcs/kbarticles/<filename>.html` | [Authoring Guide](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
+| [![Build Status](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_pr-exl/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl/badge/icon)](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl/lastBuild) |  `https://experienceleague.corp.adobe.com/docs/experience-cloud-kcs/kbarticles/<filename>.html` | [Authoring Guide](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 
 <!--
