@@ -1,14 +1,5 @@
 # Contribute article
 
-| EXL-PR Validation | EXL Validation | URL Pattern | Help |
-|--- |--- |--- |--- |
-| [![Build Status](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_pr-exl/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl/badge/icon)](https://docs.ci.corp.adobe.com/job/experience-cloud-kcs.en_exl/lastBuild) |  `https://experienceleague.corp.adobe.com/docs/experience-cloud-kcs/kbarticles/<filename>.html` | [Authoring Guide](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
-
-
-<!--
-|[Output Prod](https://docs.adobe.com/content/help/en/document-cloud-learn/tutorials/overview.html)|[Output Stg](https://docs-stg.corp.adobe.com/content/help/en/document-cloud-learn/tutorials/overview.html)|
--->
-
 We welcome contributions from our community as well as from Adobe employees from outside the documentation teams. 
 
 ## Adobe Open Source Code of Conduct
