@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud, document-cloud
+cloud: Experience Cloud, Document Cloud
 solution-title: Troubleshooting
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.en
 type: Troubleshooting
