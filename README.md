@@ -1,6 +1,6 @@
 # Contribute article
 
-We welcome contributions from our community as well as from Adobe employees from outside the documentation teams.
+We welcome contributions from our community as well as from Adobe employees from outside the documentation teams. 
 
 ## Adobe Open Source Code of Conduct
 
@@ -8,7 +8,7 @@ This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct
 
 ## About your contributions to Adobe content
 
-See the [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+See the [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html). 
 
 How you contribute depends on who you are and the sort of changes you'd like to contribute:
 
@@ -28,7 +28,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Major changes from Adobe Employees
 
-If you are a technical writer, program manager, or developer from the product team for an [!UICONTROL Adobe Experience Cloud] solution and it's your job to contribute to or author technical articles, you should use the private repository at `https://git.corp.adobe.com/AdobeDocs`.
+If you are a technical writer, program manager, or developer from the product team for an Adobe Experience Cloud solution and it's your job to contribute to or author technical articles, you should use the private repository at `https://git.corp.adobe.com/AdobeDocs`. 
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
