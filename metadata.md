@@ -3,12 +3,11 @@ cloud: Experience Cloud, Document Cloud
 solution-title: Troubleshooting
 type: Troubleshooting
 index: yes
-git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.en
 ---
 
 # Metadata for internal use
 
-The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
+The [!DNL metadata].md file includes repo-level metadata that passes through to user guide [!DNL TOC.md] files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
 
 | metadata | what it does |
 |--- |--- |
